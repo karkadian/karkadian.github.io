@@ -10,10 +10,10 @@ title: Kevin Justice Carcache Diaz
 email: kevin.carcache@utp.ac.pa
 description: > # this means to ignore newlines until "baseurl:"
   FullStack Developer, Ingeniero en Sistemas, Desarrollador de Videojuegos y
-  Músico. Este es mi blog personal, en el cual intentaré mostrar los diferentes 
+  Músico. Este es mi blog personal, en el cual intentaré mostrar los diferentes
   proyectos en los cuales estoy trabajando.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://karkadian.github.io" # the base hostname & protocol for your site
+url: "http://kevinjustice.me" # the base hostname & protocol for your site
 twitter_username: kjcd2518
 github_username: karkadian
 
