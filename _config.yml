@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/"
-url: "https://kevinjustice.me"
+url: "http://kevinjustice.me"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
