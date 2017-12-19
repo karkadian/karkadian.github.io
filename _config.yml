@@ -13,7 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Programador FullStack y Desarrollador de videojuegos</p></br>
+     <p>Un pequeño vistazo a los proyectos en los que he trabajado.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
