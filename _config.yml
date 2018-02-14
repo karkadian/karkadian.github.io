@@ -21,48 +21,48 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "kevin.carcache@utp.ac.pa" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "KJJCD2516"
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "karkadian"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/in/kevin-carcache-26a09297/" # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "kjcd2518"
   vimeo:
   wordpress:
   youtube:
 
-  # Scripts / Features 
+  # Scripts / Features
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
   portfolio: true
   search: true
   tags: true
-  
-  
+
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_next_post: "Siguiente post"
+  str_previous_post: "Post anterior"
+  str_next_page: "Siguiente"
+  str_previous_page: "Anterior"
+  str_continue_reading: "Continuar leyendo"
+  str_javascript_required_disqus: "Por favor activa el javascript para ver los comentarios."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
