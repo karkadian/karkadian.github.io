@@ -1,14 +1,18 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Test]
+feature-img: "assets/img/pexels/travel.jpeg"
+tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Hola, mi nombre es Kevin Carcache
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Soy un ingeniero en sistemas computacionales, apasionado de la programación y del ánime japonés.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+<!-- Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+
+Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+
+This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely. -->
  
